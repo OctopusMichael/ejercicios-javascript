@@ -424,8 +424,8 @@ Escribir una función llamada `palabrasANumeros` que reciba un arreglo de string
 // escribe tu función acá
 
 // código de prueba
-console.log(["cero", "uno", "dos", "tres", "what?", "cuatro"]) // [0, 1, 2, 3, -1, 4]
-console.log(["cinco", "seis", "siete", "ocho", "nueve"]) // [5, 6, 7, 8, 9]
+console.log(palabrasANumeros(["cero", "uno", "dos", "tres", "what?", "cuatro"])) // [0, 1, 2, 3, -1, 4]
+console.log(palabrasANumeros(["cinco", "seis", "siete", "ocho", "nueve"])) // [5, 6, 7, 8, 9]
 ```
 
 ## 29. Número de asteriscos en un arreglo
